@@ -1,5 +1,12 @@
 # UniversityManagementSystem
 
+We Often Remain Busy With Our Daily Life And We Roughly Have Any Time To Check The University E-mail, BLC Notifications, Student Portal Details & Notice Board. That's Why We Built A Super Easy And User Friendly Application That Can Keep Track Of Students And Also Can Notify Them About There University Related Notice. This System Can Help Students And Teachers For Maintaining The Classes.
+
+The User Interface Is Simple And Minimalist. New Comers Will Find This Application Really Useful. So Let’s Have A Look At It’s Features.
+
+
+![image](https://github.com/hemal6325/UniversityManagementSystem/assets/90565911/68600bfb-ba0f-44cf-90c8-98b9e159b6c4)
+
 ![Picture1](https://github.com/hemal6325/UniversityManagementSystem/assets/90565911/f7da8bc5-0bd2-4da6-9d92-e29f55a79fa3)
 
 ![Picture2](https://github.com/hemal6325/UniversityManagementSystem/assets/90565911/3894c774-0429-4494-8294-668c97e19cc0)
