@@ -47,7 +47,7 @@ The User Interface Is Simple And Minimalist. New Comers Will Find This Applicati
 ## Documentation
 
 [Presentation Slide](https://docs.google.com/presentation/d/1VyYQVPLdlW7jegK4KbfTUYvJTVm_EthQ/edit?usp=sharing&ouid=100802961822661399961&rtpof=true&sd=true)
-
+[Project Report](https://docs.google.com/presentation/d/1VyYQVPLdlW7jegK4KbfTUYvJTVm_EthQ/edit?usp=sharing&ouid=100802961822661399961&rtpof=true&sd=true)
 
 
 
