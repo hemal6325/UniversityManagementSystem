@@ -12,8 +12,8 @@ The User Interface Is Simple And Minimalist. New Comers Will Find This Applicati
 - Student Portal
     - CR Vote
         - Candidate
-            - Vote
-            - See Winners
+        - Vote
+        - See Winners
     - Quiz
         - Subject Name
     - Poll
