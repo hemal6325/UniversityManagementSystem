@@ -39,6 +39,11 @@ The User Interface Is Simple And Minimalist. New Comers Will Find This Applicati
         - Enter Batch 
    - See The Complains
 
+## Authors
+
+- [@hemal6325](https://www.github.com/hemal6325)
+
+
 
 ![image](https://github.com/hemal6325/UniversityManagementSystem/assets/90565911/68600bfb-ba0f-44cf-90c8-98b9e159b6c4)
 
