@@ -14,15 +14,15 @@ The User Interface Is Simple And Minimalist. New Comers Will Find This Applicati
         - Candidate
             - Vote
             - See Winners
-           - Quiz
-                - Subject Name
-           - Poll
-                - Make Poll
-                - Paticipant In Poll
-                - See Result
-           - About CR
-           - Notice
-           - Complain On CR
+    - Quiz
+        - Subject Name
+    - Poll
+        - Make Poll
+        - Paticipant In Poll
+        - See Result
+    - About CR
+    - Notice
+    - Complain On CR
 
 - Teacher Portal
    - Add New Student
